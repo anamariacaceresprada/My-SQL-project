@@ -74,3 +74,9 @@ Relationships between tables were established using **primary and foreign keys**
 This project was developed during a **Data Technician Bootcamp**, where SQL was used to build foundational skills in **database querying, relational data analysis, and extracting insights from structured datasets**.
 
 ---
+
+## Data Analysis Examples
+
+- **Customer Segmentation**
+
+<img width="420" height="132" alt="image" src="https://github.com/user-attachments/assets/a7d97b07-a90a-4dcb-91d3-524aa41288ff" />
