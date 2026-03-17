@@ -80,3 +80,13 @@ This project was developed during a **Data Technician Bootcamp**, where SQL was 
 - **Customer Segmentation**
 
 <img width="420" height="132" alt="image" src="https://github.com/user-attachments/assets/a7d97b07-a90a-4dcb-91d3-524aa41288ff" />
+
+
+- **Sales & Order Analysis**
+
+<img width="396" height="126" alt="image" src="https://github.com/user-attachments/assets/8f35be40-15d7-4719-aa4b-18a0416d62a6" />
+
+
+- **Product Demand Insights**
+
+<img width="441" height="147" alt="image" src="https://github.com/user-attachments/assets/d77e37fe-95f2-4d35-ac84-2a9cd36a6fbf" />
